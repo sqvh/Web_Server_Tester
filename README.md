@@ -6,9 +6,6 @@ Contacts       : [discord: sqvh#5615]
 Version        : [1.0] 
 Tests for      : ['http' WEB APPLICATIONS]
 
-######################################
-#MADE BY SQVH FOR TESTING WEB-SERVERS#
-######################################
 
 This tool is a Stress-Testing tool, which is meant to put heavy load on HTTP servers
 in order to bring them to their knees by exhausting the resource pool by performing a D/DoS Attack.
