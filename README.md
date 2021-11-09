@@ -1,9 +1,10 @@
 # Stress-Tester
-# Exploit Title  : [Stress-Tester.py 1.0 http/s D/DOS Script]
-# Exploit Author : [sqvh]
-# Contacts       : [discord: sqvh#5615]
-# Version        : [1.0] 
-# Tests for      : ['http' WEB APPLICATIONS]
+
+Exploit Title  : [Stress-Tester.py 1.0 http/s D/DOS Script]
+Exploit Author : [sqvh]
+Contacts       : [discord: sqvh#5615]
+Version        : [1.0] 
+Tests for      : ['http' WEB APPLICATIONS]
 
 ######################################
 #MADE BY SQVH FOR TESTING WEB-SERVERS#
